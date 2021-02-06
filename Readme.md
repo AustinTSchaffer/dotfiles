@@ -21,6 +21,7 @@ ln -s "$(pwd)/ergodox_layouts" ~/Tools/ergodox/layouts
 ## Install
 
 - vscode
+- git via `ppa:git-core/ppa`
 
 ## Essential Non-Package-Manager Install
 
