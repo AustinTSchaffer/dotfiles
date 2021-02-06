@@ -1,0 +1,15 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Austin Schaffer
+	email = schaffer.austin.t@gmail.com
+
+[core]
+	editor = vim
+
+[pull]
+	ff = only
+
+[init]
+	defaultBranch = main
+

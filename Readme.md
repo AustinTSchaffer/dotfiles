@@ -11,6 +11,7 @@ Create symbolic links between the files in this repository to the home directory
 ```bash
 ln -s "$(pwd)/.bash_aliases" ~/.bash_aliases
 ln -s "$(pwd)/.inputrc" ~/.inputrc
+ln -s "$(pwd)/.gitconfig" ~/.gitconfig
 
 # Ergodox keyboard layouts
 mkdir -p ~/Tools/ergodox
